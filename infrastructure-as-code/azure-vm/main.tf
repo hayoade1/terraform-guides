@@ -13,7 +13,7 @@ variable "windows_dns_prefix" {
 
 variable "admin_password" {
   description = "admin password for Windows VM"
-  default = "pTFE1234!"
+  default = "pTFE1234!!"
 }
 
 module "windowsserver" {
